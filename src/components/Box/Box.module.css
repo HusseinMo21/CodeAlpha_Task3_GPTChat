@@ -1,0 +1,14 @@
+.Box {
+    display: flex;
+    flex-direction: column;
+    height: 91vh;
+    width: 80%;
+    background-color:rgba(0, 0, 0, 0.4);
+    z-index: 10;
+    padding: 10px;
+    border-radius: 10px;
+    border: 0.1px dashed black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin: auto;
+    overflow-y: scroll;
+}
